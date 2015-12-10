@@ -11,6 +11,7 @@ namespace GitHubTestApp
 		static void Main(string[] args)
 		{
 			//Some code
+			//More code
 		}
 	}
 }
